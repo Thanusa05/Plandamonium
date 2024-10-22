@@ -1,0 +1,201 @@
+[
+    {
+        "id": "1",
+        "Event": "Prepare for the Day",
+        "Time": 730,
+        "Date": 819
+    },
+    {
+        "id": "2",
+        "Event": "Period 1: English Literature",
+        "Time": 800,
+        "Date": 819
+    },
+    {
+        "id": "3",
+        "Event": "Period 2: English Literature",
+        "Time": 900,
+        "Date": 819
+    },
+    {
+        "id": "4",
+        "Event": "Morning Break",
+        "Time": 1000,
+        "Date": 819
+    },
+    {
+        "id": "5",
+        "Event": "Period 3: Creative Writing",
+        "Time": 1015,
+        "Date": 819
+    },
+    {
+        "id": "6",
+        "Event": "Period 4: Creative Writing",
+        "Time": 1115,
+        "Date": 819
+    },
+    {
+        "id": "7",
+        "Event": "Lunch Break",
+        "Time": 1215,
+        "Date": 819
+    },
+    {
+        "id": "8",
+        "Event": "Period 5: Planning and Grading Time",
+        "Time": 1300,
+        "Date": 819
+    },
+    {
+        "id": "9",
+        "Event": "Period 6: AP English",
+        "Time": 1400,
+        "Date": 819
+    },
+    {
+        "id": "10",
+        "Event": "End-of-Day Wrap-Up and Check Emails",
+        "Time": 1500,
+        "Date": 819
+    },
+    {
+        "id": "11",
+        "Event": "Faculty Meeting",
+        "Time": 1530,
+        "Date": 819
+    },
+    {
+        "id": "12",
+        "Event": "Grading Assignments and Inputting Grades",
+        "Time": 1630,
+        "Date": 819
+    },
+    {
+        "id": "13",
+        "Event": "Plan Homework Assignments and Manage Homework Submissions",
+        "Time": 1730,
+        "Date": 819
+    },
+    {
+        "id": "14",
+        "Event": "Personal Time/Exercise",
+        "Time": 1800,
+        "Date": 819
+    },
+    {
+        "id": "15",
+        "Event": "Dinner with Family",
+        "Time": 1900,
+        "Date": 819
+    },
+    {
+        "id": "16",
+        "Event": "Respond to Parent and Student Emails",
+        "Time": 2000,
+        "Date": 819
+    },
+    {
+        "id": "17",
+        "Event": "Relax/Read",
+        "Time": 2100,
+        "Date": 819
+    },
+    {
+        "id": "18",
+        "Event": "Prepare for the Day",
+        "Time": 730,
+        "Date": 820
+    },
+    {
+        "id": "19",
+        "Event": "Period 1: English Literature",
+        "Time": 800,
+        "Date": 820
+    },
+    {
+        "id": "20",
+        "Event": "Period 2: English Literature",
+        "Time": 900,
+        "Date": 820
+    },
+    {
+        "id": "21",
+        "Event": "Morning Break",
+        "Time": 1000,
+        "Date": 820
+    },
+    {
+        "id": "22",
+        "Event": "Period 3: Drama",
+        "Time": 1015,
+        "Date": 820
+    },
+    {
+        "id": "23",
+        "Event": "Period 4: Drama",
+        "Time": 1115,
+        "Date": 820
+    },
+    {
+        "id": "24",
+        "Event": "Lunch Break",
+        "Time": 1215,
+        "Date": 820
+    },
+    {
+        "id": "25",
+        "Event": "Period 5: Prep and Grading Time",
+        "Time": 1300,
+        "Date": 820
+    },
+    {
+        "id": "26",
+        "Event": "Period 6: AP English",
+        "Time": 1400,
+        "Date": 820
+    },
+    {
+        "id": "27",
+        "Event": "Office Hours (Meet with Students for Support)",
+        "Time": 1500,
+        "Date": 820
+    },
+    {
+        "id": "28",
+        "Event": "Input Grades and Update Student Records",
+        "Time": 1600,
+        "Date": 820
+    },
+    {
+        "id": "29",
+        "Event": "Personal Time/Exercise",
+        "Time": 1700,
+        "Date": 820
+    },
+    {
+        "id": "30",
+        "Event": "Dinner with Family",
+        "Time": 1800,
+        "Date": 820
+    },
+    {
+        "id": "31",
+        "Event": "Prepare Lessons and Plan Upcoming Curriculum",
+        "Time": 1900,
+        "Date": 820
+    },
+    {
+        "id": "32",
+        "Event": "Relax/Watch TV",
+        "Time": 2100,
+        "Date": 820
+    },
+    {
+        "id": "33",
+        "Event": "Prepare for the Day",
+        "Time": 730,
+        "Date": 821
+    }
+   
+]

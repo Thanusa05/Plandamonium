@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1",
+        "Event": "Prepare for the Day",
+        "Time": 730,
+        "Date": "0819"
+    },
+    {
+        "id": "2",
+        "Event": "Math - Algebra",
+        "Time": 800,
+        "Date": "0819"
+    },
+    {
+        "id": "3",
+        "Event": "English - Literature",
+        "Time": 930,
+        "Date": "0819"
+    },
+    {
+        "id": "4",
+        "Event": "Biology - Cell Biology",
+        "Time": 1100,
+        "Date": "0819"
+    },
+    {
+        "id": "5",
+        "Event": "Lunch",
+        "Time": 1230,
+        "Date": "0819"
+    },
+    {
+        "id": "6",
+        "Event": "History - Ancient Civilizations",
+        "Time": 1300,
+        "Date": "0819"
+    },
+    {
+        "id": "7",
+        "Event": "Physical Education",
+        "Time": 1430,
+        "Date": "0819"
+    },
+    {
+        "id": "8",
+        "Event": "Study Session",
+        "Time": 1600,
+        "Date": "0819"
+    },
+    {
+        "id": "9",
+        "Event": "Prepare for the Day",
+        "Time": 730,
+        "Date": "0820"
+    },
+    {
+        "id": "10",
+        "Event": "Chemistry - Organic Chemistry",
+        "Time": 800,
+        "Date": "0820"
+    },
+    {
+        "id": "11",
+        "Event": "Spanish - Conversation",
+        "Time": 930,
+        "Dat
+

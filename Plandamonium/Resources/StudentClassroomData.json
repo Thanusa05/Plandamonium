@@ -1,0 +1,27 @@
+[
+    {
+        "ClassName": "English",
+        "Period": 1,
+        "id": 1000
+    },
+    {
+        "ClassName": "Math",
+        "Period": 2,
+        "id": 1001
+    },
+    {
+        "ClassName": "Science",
+        "Period": 3,
+        "id": 1002
+    },
+    {
+        "ClassName": "Perfoming Arts",
+        "Period": 4,
+        "id": 1003
+    },
+    {
+        "ClassName": "Finacial Literacy",
+        "Period": 5,
+        "id": 1004
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "ClassName": "English",
+        "Period": 1,
+        "NumberOfStudents": 25,
+        "ClassCode": "abcde",
+        "id": 1000
+    },
+    {
+        "ClassName": "Math",
+        "Period": 2,
+        "NumberOfStudents": 22,
+        "ClassCode": "efghi",
+        "id": 1001
+    },
+    {
+        "ClassName": "Science",
+        "Period": 3,
+        "NumberOfStudents": 20,
+        "ClassCode": "jklmno",
+        "id": 1002
+    },
+    {
+        "ClassName": "Perfoming Arts",
+        "Period": 4,
+        "NumberOfStudents": 30,
+        "ClassCode": "pqrst",
+        "id": 1003
+    },
+    {
+        "ClassName": "Finacial Literacy",
+        "Period": 5,
+        "NumberOfStudents": 15,
+        "ClassCode": "uvwxy",
+        "id": 1004
+    }
+]
+
+
